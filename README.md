@@ -7,7 +7,7 @@
 
 # ALFRED DIZON
 
-### Aspiring Full-Stack Developer
+### Aspiring Web Developer
 
 Building practical solutions through code.
 
