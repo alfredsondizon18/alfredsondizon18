@@ -1,5 +1,7 @@
 
-<!-- ================= PROFILE HEADER ================= -->
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -9,12 +11,18 @@
 
 Building practical solutions through code.
 
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alfredsondizon18)
 [![Profile Views](https://komarev.com/ghpvc/?username=alfredsondizon18&style=flat-square&color=555555&label=PROFILE+VIEWS)](https://github.com/alfredsondizon18)
 
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 ## ABOUT ME
 
@@ -27,18 +35,26 @@ I'm an IT student passionate about web development and software engineering. I e
 
 ---
 
+<!-- ===================================================== -->
+<!--                   TECHNICAL SKILLS                    -->
+<!-- ===================================================== -->
+
 ## TECHNICAL SKILLS
 
-**Languages**
+**Programming Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frameworks & Database**
+**Frameworks & Libraries**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Development Tools**
@@ -49,6 +65,10 @@ I'm an IT student passionate about web development and software engineering. I e
 
 ---
 
+<!-- ===================================================== -->
+<!--                   GITHUB STATISTICS                   -->
+<!-- ===================================================== -->
+
 ## GITHUB OVERVIEW
 
 <div align="center">
@@ -57,7 +77,7 @@ I'm an IT student passionate about web development and software engineering. I e
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsondizon18&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
-<br/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfredsondizon18&theme=github-dark&hide_border=true&area=true" width="100%" />
 
@@ -65,14 +85,23 @@ I'm an IT student passionate about web development and software engineering. I e
 
 ---
 
+<!-- ===================================================== -->
+<!--                    CURRENT FOCUS                      -->
+<!-- ===================================================== -->
+
 ## CURRENT FOCUS
 
 - Improving Laravel development skills.
 - Building database-driven web applications.
+- Learning responsive web design with Bootstrap.
 - Writing cleaner and more maintainable code.
 - Exploring software development best practices.
 
 ---
+
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
