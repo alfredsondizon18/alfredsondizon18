@@ -1,42 +1,83 @@
 
-<h1 align="center">Alfred Dizon</h1>
+<!-- ================= PROFILE HEADER ================= -->
 
-<h3 align="center">Aspiring Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  Building projects, learning new technologies, and improving one line of code at a time.
-</p>
+# ALFRED DIZON
 
----
+### Aspiring Full-Stack Developer
 
-### About Me
+Building practical solutions through code.
 
-- Currently learning web development.
-- Interested in backend and frontend development.
-- Building practical web applications.
-- Always exploring and improving my programming skills.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alfredsondizon18)
+[![Profile Views](https://komarev.com/ghpvc/?username=alfredsondizon18&style=flat-square&color=555555&label=PROFILE+VIEWS)](https://github.com/alfredsondizon18)
 
-### Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
-</p>
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" width="100%" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <sub>Still learning. Still building. Still debugging.</sub>
-</p>
+## ABOUT ME
+
+I'm an IT student passionate about web development and software engineering. I enjoy creating functional applications, exploring new technologies, and continuously improving my programming skills.
+
+- Currently focused on web development.
+- Learning modern development practices.
+- Interested in backend and frontend technologies.
+- Always working on something new.
+
+---
+
+## TECHNICAL SKILLS
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks & Database**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GITHUB OVERVIEW
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alfredsondizon18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsondizon18&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfredsondizon18&theme=github-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+- Improving Laravel development skills.
+- Building database-driven web applications.
+- Writing cleaner and more maintainable code.
+- Exploring software development best practices.
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+<sub>Designed with simplicity. Built with purpose.</sub>
+
+</div>
